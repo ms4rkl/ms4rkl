@@ -1,7 +1,7 @@
 # 👨‍💻 Michal Markl
 <hr>
 
-### I work with:
+### Working with:
 - 🪟 **Windows**
 - 🐧 **Linux**
 - 🐍 **Python**
