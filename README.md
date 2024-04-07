@@ -16,10 +16,6 @@
 - ⚙️ **Autodesk Inventor**
 - 📷 **Adobe Photoshop**
 <hr>
-
-### Free time activities:
-- 🏃‍♂️ 🚵‍♂️ 🎸 🛠️ 📖
-<hr>
 <!--
 **michal-markl/michal-markl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
