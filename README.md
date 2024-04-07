@@ -1,5 +1,25 @@
-### Hi there 👋
+# 👨‍💻 Michal Markl
+<hr>
 
+### I work with:
+- 🪟 **Windows**
+- 🐧 **Linux**
+- 🐍 **Python**
+  - ✅NumPy
+  - ✅SymPy
+  - ✅Matplotlib
+  - 🏁Pandas
+  - 🏁TensorFlow/Keras
+- ©️ **C**
+- 📝 **TeX**
+- 🖼️ **Blender**
+- ⚙️ **Autodesk Inventor**
+- 📷 **Adobe Photoshop**
+<hr>
+
+### Free time activities:
+- 🏃‍♂️ 🚵‍♂️ 🎸 🛠️ 📖
+<hr>
 <!--
 **michal-markl/michal-markl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
