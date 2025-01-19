@@ -1,6 +1,6 @@
 # MS4RKL
 <hr>
-<img src="https://github.com/ms4rkl/ms4rkl/tree/main/render4.png" width=800px, alt="gearbox-image"></img>
+
 <!--
 ### Working with:
 - 🪟 **Windows**
